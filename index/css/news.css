@@ -1,0 +1,26 @@
+h1{
+    color: #4d4f53;
+}
+span{
+    color: #999a9c;
+}
+a{
+    color: #0f1f30;
+    text-decoration: none;
+}
+p{
+    /* 首行缩进 */
+    text-indent: 50px;
+    line-height: 40px;
+}
+#nb{
+    text-align: right;
+    color: #676464;
+}
+#center{
+    width: 65%;
+   
+    /* margin: 0% 17.5% 0% 17.5%;   设置外边距 从左到右顺序，上下左右 */
+    /* 设置外边距更简化写法 */
+    margin: 0 auto;
+}
